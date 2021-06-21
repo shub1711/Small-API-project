@@ -12,12 +12,6 @@
   <a href="#">
     <img alt="Runs with Expo CLI" src="https://img.shields.io/badge/Runs%20with%20Expo-000.svg?style=flat-square&logo=EXPO&labelColor=f3f3f3&logoColor=000" />
   </a>
-<!--   <a href="#">
-    <img alt="Documentation" src="https://img.shields.io/badge/documentation-yes-brightgreen.svg" />
-  </a>
-  <a href="#" target="_blank">
-    <img alt="Maintenance" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
-  </a> -->
   <a href="ttps://github.com/shub1711/master/LICENSE" target="_blank">
     <img alt="License: ISC" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
@@ -52,12 +46,12 @@ npm run start
 
 ## Screenshots 
 
-<a href="url"><img src="" align="left" height="650" width="350" ></a>
-<a href="url"><img src="" align="left" height="650" width="350" ></a>
-<a href="url"><img src="" align="left" height="650" width="350" ></a>
-<a href="url"><img src="" align="left" height="650" width="350" ></a>
-<a href="url"><img src="" align="left" height="650" width="350" ></a>
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+<a href="url"><img src="https://user-images.githubusercontent.com/74972376/122748558-f6643380-d2a9-11eb-8b6d-1ec8d6228f3d.png" align="left" height="650" width="350" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/74972376/122748774-34615780-d2aa-11eb-8187-92f0e743f930.png" align="left" height="650" width="350" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/74972376/122748849-47742780-d2aa-11eb-8be9-a80ed95b7001.png" align="left" height="650" width="350" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/74972376/122748921-5bb82480-d2aa-11eb-8bd4-78a14824f682.png" align="left" height="650" width="350" ></a>
+<a href="url"><img src="https://user-images.githubusercontent.com/74972376/122748991-6e325e00-d2aa-11eb-9d8a-37b0c9f0c2fc.png" align="left" height="650" width="350" ></a>
+<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/shub1711/task-moneyhop/issues).
