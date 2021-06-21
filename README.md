@@ -23,7 +23,7 @@
 
 ### 🏠 [Homepage](https://github.com/shub1711/task-moneyhop#readme)
 
-### ✨ [Working Video (Download and Watch)]()
+### ✨ [Working Video (Download and Watch)](https://github.com/shub1711/task-moneyhop/blob/main/Affirmation%20App%20-%20Working%20Video.mov?raw=true)
 
 ## Install
 
